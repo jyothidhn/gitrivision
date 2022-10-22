@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hii thish is sprint1
+=======
+this is sprint1
+>>>>>>> 4d59a317c4dfd4de6f53c3108f7fc8466d58d80a
